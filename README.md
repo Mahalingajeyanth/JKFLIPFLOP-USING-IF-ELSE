@@ -56,8 +56,8 @@ end
 endmodule
 ```
 ```
-Developed by:KOMALAVARSHINI.S
-RegisterNumber:24900909
+Developed by:MAHALINGA JEYANTH V
+RegisterNumber:24900649
 ```
 **RTL LOGIC FOR FLIPFLOPS**
 ![exp7](https://github.com/user-attachments/assets/82417d5e-2ac9-49d6-b810-636861672e19)
